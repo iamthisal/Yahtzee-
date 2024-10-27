@@ -1,8 +1,6 @@
 # Yahtzee in C
 
-A small console game based on the SE1012 Programming Methodology assignment from 2024. You play against the computer for 13 rounds.
-
-This is a reconstruction from the assignment PDF; the original source code was not available.
+A simple console Yahtzee game written in C. You play against the computer for 13 rounds, rolling dice and choosing scoring categories.
 
 ## Compile and run
 
