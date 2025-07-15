@@ -22,6 +22,16 @@ On Linux or macOS:
 ./yahtzee
 ```
 
+If GNU Make is installed, you can also use:
+
+```sh
+make
+make run
+make clean
+```
+
+These commands compile the game, compile and run it, and remove the executable, respectively.
+
 ## Playing
 
 - Roll five dice, then choose whether to roll again. Each turn allows up to three rolls.

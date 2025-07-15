@@ -1,4 +1,5 @@
 /build/
+/yahtzee
 *.exe
 *.o
 .codex-tmp/
