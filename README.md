@@ -2,19 +2,15 @@
 
 A simple console Yahtzee game written in C. You play against the computer for 13 rounds, rolling dice and choosing scoring categories.
 
-## Screenshots
+## Gameplay
 
 Starting a game:
 
-![First round with the scoreboard and initial dice roll](docs/screenshots/start.png)
-
-Keeping dice, rerolling and choosing a scoring category:
-
-![Human turn showing a reroll and the available scoring categories](docs/screenshots/reroll.png)
+![First round with the scoreboard and initial dice roll](start.png)
 
 Final scores after all 13 rounds:
 
-![Completed game with both scorecards and the winner](docs/screenshots/final.png)
+![Completed game with both scorecards and the winner](final.png)
 
 ## Compile and run
 
